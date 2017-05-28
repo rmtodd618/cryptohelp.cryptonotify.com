@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Welcome to the Crypto Helper
 description: The place for noobs to learn how to do things in cryptoland
+gems:
+  - jekyll-sitemap
